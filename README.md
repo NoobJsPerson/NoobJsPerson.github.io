@@ -1,1 +1,0 @@
-# NoobJsPerson.github.io
