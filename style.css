@@ -3,6 +3,14 @@
 body {
 	font-family: "Lexend Deca", sans-serif;
 	background-color: #9f9ba4;
+	font-size: 1.25em;
+}
+a {
+	color: #020536;
+	text-decoration: none;
+}
+a:visited {
+	color: #020536;
 }
 img {
 	width: 48px;
